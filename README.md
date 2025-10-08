@@ -1,1 +1,1 @@
-["----II: Welcome!!","----II: uh ig it works"]
+["----II: Welcome!!"]
